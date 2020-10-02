@@ -12,12 +12,15 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Numeric Matrix Processor/task" />
+            <option value="$PROJECT_DIR$/Problems/Comparing numbers" />
             <option value="$PROJECT_DIR$/Problems/Difference between two doubles" />
             <option value="$PROJECT_DIR$/Problems/Distance" />
+            <option value="$PROJECT_DIR$/Problems/Double factorial" />
             <option value="$PROJECT_DIR$/Problems/Exponential expression" />
             <option value="$PROJECT_DIR$/Problems/Heron's formula" />
             <option value="$PROJECT_DIR$/Problems/Pow" />
             <option value="$PROJECT_DIR$/Problems/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Problems/The smallest value" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
